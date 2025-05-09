@@ -1,0 +1,15 @@
+__meta__:
+  output_model: str
+
+system_prompt: You are a time series analysis expert.
+
+main_prompt_header: "You will be given a time series plot, a question, and some useful information. 
+  Please answer the question given the time series plot. 
+  To make things easier for you, you will be provided with multiple answers to chose from. 
+  Please respond in the style of 'The answer is X (ABC or D): then repeat the correct answer.'
+  For example if your choices are
+    A. Pig
+    B. Duck
+    C. Cheese
+    D. Elephant
+  If you think the correct answer is A, your response should be 'The answer is A: Pig"

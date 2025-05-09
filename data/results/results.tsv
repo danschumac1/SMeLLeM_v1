@@ -1,0 +1,15 @@
+accuracy	correct	total	dataset	subset	prompt_type	input_file
+0.9933	296	298	mcq	1	generic_zs	./data/generations/mcq/1/generic_zs.jsonl
+0.9933	298	300	mcq	1	vision	./data/generations/mcq/1/vision.jsonl
+0.9933	296	298	mcq	1	generic_zs_false	./data/generations/mcq/1/generic_zs_false.jsonl
+0.9933	298	300	mcq	1	vision_false	./data/generations/mcq/1/vision_false.jsonl
+0.9933	296	298	mcq	1	generic_zs_false	./data/generations/mcq/1/generic_zs_false.jsonl
+0.9933	298	300	mcq	1	vision_false	./data/generations/mcq/1/vision_false.jsonl
+0.0	0	298	mcq	1	generic_zs_false	./data/generations/mcq/1/generic_zs_false.jsonl
+0.0	0	300	mcq	1	vision_false	./data/generations/mcq/1/vision_false.jsonl
+0.9027	269	298	mcq	1	generic_zs_false	./data/generations/mcq/1/generic_zs_false.jsonl
+0.8333	250	300	mcq	1	vision_false	./data/generations/mcq/1/vision_false.jsonl
+0.9027	269	298	mcq	1	generic_zs_false	./data/generations/mcq/1/generic_zs_false.jsonl
+0.8333	250	300	mcq	1	vision_false	./data/generations/mcq/1/vision_false.jsonl
+0.906	270	298	mcq	1	generic_zs	./data/generations/mcq/1/generic_zs.jsonl
+0.82	246	300	mcq	1	vision	./data/generations/mcq/1/vision.jsonl
