@@ -1,2 +1,2 @@
 .env
-./data/MCQ_1_TS_full.jsonl
+data/MCQ_1_TS_full.jsonl
